@@ -1,0 +1,12 @@
+
+linktree--many url combines and make one
+bitly---url shortnet and qr code generator & landing page
+
+
+.env=mongodb url conncetion string in that
+.server.js= in that i have added middleware and mongodb.conncet(process.env.mongo_uri)
+.then if connection successful and .then if connection fails
+have  added middleware --allow our servers to add json data
+
+
+
